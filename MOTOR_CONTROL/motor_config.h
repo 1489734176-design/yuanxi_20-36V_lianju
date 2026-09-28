@@ -125,7 +125,7 @@
 #define Sbrake_Time_MS                                          (200*SLOWLOOP_1ms_CNT_LOAD)/*软刹车时间 uint:ms*/   
 #define SBrake_MIN_Time_MS_CNT                                   (100*SLOWLOOP_1ms_CNT_LOAD)/*硬刹车时间 uint:ms*/
 
-#define HBrake_En                                               (0)/*硬刹车使能*/
+#define HBrake_En                                               (1)/*硬刹车使能*/
 
 #define HBrake_MIN_Time_MS_CNT                                      (260*SLOWLOOP_1ms_CNT_LOAD)/*硬刹车时间 uint:ms*/
 #define HBrake_Time_MS_CNT                                          (800*SLOWLOOP_1ms_CNT_LOAD)/*硬刹车时间 uint:ms*/

@@ -178,7 +178,7 @@ I (..\USER\inc\user_control.h)(0x6AB9D4A6)
 I (..\MC_CORE\mc_core.h)(0x6A81EEE9)
 I (..\MOTOR_CONTROL\motor_control.h)(0x69EB115E)
 I (..\USER\inc\led.h)(0x69AE3E33)
-I (..\MOTOR_CONTROL\motor_config.h)(0x6A310A93)
+I (..\MOTOR_CONTROL\motor_config.h)(0x6AB9F5A8)
 F (..\USER\inc\parameter.h)(0x6A3A5A0A)()
 F (..\USER\user_control.c)(0x6AB9D4A6)(-c --cpu Cortex-M0 -D__MICROLIB -g -O1 --apcs=interwork --split_sections -I ..\MM32SPIN0230\Include -I ..\MM32SPIN0230\HAL_Lib\inc -I ..\DRIVE\inc -I ..\SYSTEM\inc -I ..\USER\inc -I ..\M1_CONTROL\inc -I ..\MM_MCLIB\inc -I ..\MM_MCLIB\inc -I ..\MY_MC -I ..\MOTOR_CONTROL -I ..\MC_CORE-I.\RTE\_MM32SPIN0230-ID:\Users\mym02\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-D__UVISION_VERSION="541" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DUSE_5V-o .\objects\user_control.o --omf_browse .\objects\user_control.crf --depend .\objects\user_control.d)
 I (..\USER\inc\user_control.h)(0x6AB9D4A6)
@@ -232,7 +232,7 @@ I (..\MOTOR_CONTROL\motor_control.h)(0x69EB115E)
 I (..\DRIVE\inc\drv_adc.h)(0x642164E6)
 I (..\USER\inc\flash_data_save.h)(0x66CCA244)
 I (..\SYSTEM\inc\systick.h)(0x66DFB9F3)
-I (..\MOTOR_CONTROL\motor_config.h)(0x6A310A93)
+I (..\MOTOR_CONTROL\motor_config.h)(0x6AB9F5A8)
 I (..\DRIVE\inc\drv_pwm.h)(0x66DFE939)
 F (..\USER\led.c)(0x6A0C37B5)(-c --cpu Cortex-M0 -D__MICROLIB -g -O1 --apcs=interwork --split_sections -I ..\MM32SPIN0230\Include -I ..\MM32SPIN0230\HAL_Lib\inc -I ..\DRIVE\inc -I ..\SYSTEM\inc -I ..\USER\inc -I ..\M1_CONTROL\inc -I ..\MM_MCLIB\inc -I ..\MM_MCLIB\inc -I ..\MY_MC -I ..\MOTOR_CONTROL -I ..\MC_CORE-I.\RTE\_MM32SPIN0230-ID:\Users\mym02\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-D__UVISION_VERSION="541" -D_RTE_ -DUSE_STDPERIPH_DRIVER -DUSE_5V-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
 I (..\USER\inc\board.h)(0x69DE0793)
@@ -1492,6 +1492,6 @@ I (D:\Users\mym02\AppData\Local\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5E8E3CC2)
 I (..\DRIVE\inc\drv_adc.h)(0x642164E6)
 I (..\USER\inc\user_control.h)(0x6AB9D4A6)
 I (..\SYSTEM\inc\systick.h)(0x66DFB9F3)
-I (..\MOTOR_CONTROL\motor_config.h)(0x6A310A93)
-F (..\MOTOR_CONTROL\motor_config.h)(0x6A310A93)()
+I (..\MOTOR_CONTROL\motor_config.h)(0x6AB9F5A8)
+F (..\MOTOR_CONTROL\motor_config.h)(0x6AB9F5A8)()
 F (..\MC_CORE\002_mc_core_V1_01.lib)(0x6A9407AA)()
